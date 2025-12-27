@@ -1,4 +1,5 @@
 ☕ Coffee Sales Analysis & Forecasting (Python)
+
 📌 Project Overview
 
 This project focuses on analyzing coffee shop sales data using Python to identify sales trends, customer purchasing behavior, and demand patterns. The analysis supports inventory planning and short-term sales forecasting using time-series techniques.
